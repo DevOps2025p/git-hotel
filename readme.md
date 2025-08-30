@@ -10,3 +10,9 @@ ingridents also added
 ###Karam-Dosa#####
 Dosa batter 
 add karam
+
+
+#####Egg-dosa####
+Dosabatter
+2eggs karam and oil
+
