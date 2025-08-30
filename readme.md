@@ -12,7 +12,7 @@ Dosa batter
 add karam
 
 
+<<<<<<< HEAD
 #####Egg-dosa####
 Dosabatter
-2eggs karam and oil
-
+ask how many eggs they want
