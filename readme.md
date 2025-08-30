@@ -12,8 +12,7 @@ Dosa batter
 add karam
 
 
-
-
-####EggDosa####
-dosabatter
-egg karam
+<<<<<<< HEAD
+#####Egg-dosa####
+Dosabatter
+ask how many eggs they want
